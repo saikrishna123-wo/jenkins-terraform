@@ -7,3 +7,4 @@ resource "aws_vpc" "main_vpc" {
     tags = {
       Name = "pavan-vpc" 
 }
+}
